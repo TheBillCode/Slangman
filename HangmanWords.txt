@@ -1,0 +1,32 @@
+HEADER: Words and definitions from https://blog.codinghorror.com/new-programming-jargon/
+Yoda Conditions: When a programmer writes the conditions for a piece of code in the opposite order for which you would expect to normally read them. (Instead of saying if(variable == constant), the code says if(constant == variable).)
+Smug Report: A bug report submitted by a user who thinks he or she knows everything about a system, when he or she does not.
+A duck: A feature added for the sole purpose of drawing attention to itself from management to be removed, avoiding unnecessary other changes in a product.
+Refuctoring: Taking a well-designed piece of code and, through a small series of changes, making it completely unmaintainable for anyone other than yourself.
+Heisenbug: A play on "Heisenberg," a principle in quantum mechanics, a Heisenbug is a bug that disappears or alters its characteristics when an attempt is made to study it.
+Jimmy: A generalized name for a clueless or new developer.
+Higgs Bugson: Another bug based on a physics phenomenon, a Higgs Bugson is a bug that's hypothetically predicted to exist based on other conditions, but is difficult to produce.
+Unicorny: A feature so early in its planning stages that it might as well be imaginary.
+Hindenbug: A catastrophic, data-destroying bug.
+Fear-driven development: When project management adds more pressure, such as by firing engineers.
+Hydra: A bug that, when an attempt to fix is made, introduces two new bugs. It's a bug that cannot be fixed.
+Common Law Feature: A bug that has existed for so long that it is considered a feature.
+Loch Ness Monster bug: A bug that has only been spotted by one person.
+Rubberducking: Talking with other engineers to solve a problem. 
+Banana banana banana: Placeholder text in code that hasn't been implemented yet.
+Reality 101 failure: Creating a program that does exactly what was asked, but the problem it's trying to solve was misunderstood and the program is basically useless.
+Mad girlfriend bug: When you see something strange is happening, but the software is telling you everything is fine.
+Hooker code: Code that is problematic and causes application instability.
+Jenga code: The whole program collapses once you alter a block of code.
+Pokemon Exception Handling: For when you just Gotta Catch 'Em All.
+Stringly Typed: A riff on strongly typed. Used to describe an implementation that needlessly relies on strings when programmer & refactor friendly options are available.
+Doctype Decoration: When web designers add a doctype declaration but don't bother to write valid markup.
+Jimmy: A generalized name for the clueless/new developer.
+Baklava Code: Code with too many layers.
+Ninja Comments: Also known as invisible comments, secret comments, or no comments.
+Smurf Naming Convention: When almost every class has the same prefix.
+Protoduction: A prototype that ends up in production.
+Bicrement: Adding 2 to a variable.
+Megamoth: Stands for MEGA MOnolithic meTHod. Often contained inside a God Object, and usually stretches over two screens in height.
+
+
